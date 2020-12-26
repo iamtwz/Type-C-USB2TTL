@@ -1,4 +1,4 @@
-![product](.\img\product.jpg)
+![product](./img/product.jpg)
 
 一个使用 CH340C 的 USB Type-C 转串口模块
 
